@@ -33,7 +33,7 @@ If you are adding a new prompt to this repository, please follow these steps in 
 
 - [ ] The prompt has been tested and works as expected.
 - [ ] The prompt file has been added to the `/prompts` folder:
-  - [ ] Title in `# Heading 1` format with a brief description.
+  - [ ] Add frontmatter with `title`, `description`, `tags`, `category`, `authors`, and `models`.
   - [ ] Prompt content encapsulated in a code block.
 - [ ] The `README.md` has been updated:
   - [ ] Prompt title linked to the new prompt file.

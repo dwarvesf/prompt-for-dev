@@ -1,4 +1,15 @@
-# Grammarly
+---
+title: Grammarly
+description: 'Correct spelling, grammar and punctuation.'
+tags:
+  - writing
+  - grammar
+category: writing
+authors:
+  - raycast
+models:
+  - openai/gpt-4.1
+---
 
 Act as a spelling corrector and improver. (replyWithRewrittenText)
 

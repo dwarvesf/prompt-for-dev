@@ -1,4 +1,14 @@
-# Tech Stack Inspector
+---
+title: Tech stack inspector
+description: 'Describe the tech stack used based on the HTML document.'
+tags:
+  - coding
+category: coding
+authors:
+  - raycast
+models:
+  - anthropic/claude-3.7-sonnet
+---
 
 Describe me the tech stack used based on the following HTML document:
 

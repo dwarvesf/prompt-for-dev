@@ -1,4 +1,15 @@
-# SQL Sorcerer
+---
+title: SQL Sorcerer
+description: 'Transform everyday language into SQL queries.'
+tags:
+  - coding
+  - sql
+category: coding
+authors:
+  - anthropic
+models:
+  - anthropic/claude-3.7-sonnet
+---
 
 Transform everyday language into SQL queries.
 
