@@ -1,5 +1,10 @@
 name: Code Explainer
 description: Explain how the code works step by step.
+tags:
+  - coding
+category: coding
+authors:
+  - raycast
 model: anthropic/claude-3.7-sonnet
 modelParameters:
   temperature: 0.5

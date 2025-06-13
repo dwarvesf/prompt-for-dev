@@ -1,5 +1,11 @@
 name: PII Purifier
 description: Remove all personally identifiable information from the text.
+tags:
+  - coding
+  - git
+category: coding
+authors:
+  - anthropic
 model: anthropic/claude-3.7-sonnet
 modelParameters:
   temperature: 0.5

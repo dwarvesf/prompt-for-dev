@@ -1,5 +1,11 @@
 name: Bug Fighter
 description: Review the code to fix logical bugs in the code.
+tags:
+  - coding
+  - bug-fixing
+category: coding
+authors:
+  - raycast
 model: anthropic/claude-3.7-sonnet
 modelParameters:
   temperature: 0.5

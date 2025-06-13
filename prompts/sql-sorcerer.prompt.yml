@@ -1,5 +1,11 @@
 name: SQL Sorcerer
 description: Transform everyday language into SQL queries.
+tags:
+  - coding
+  - sql
+category: coding
+authors:
+  - anthropic
 model: anthropic/claude-3.7-sonnet
 modelParameters:
   temperature: 0.5

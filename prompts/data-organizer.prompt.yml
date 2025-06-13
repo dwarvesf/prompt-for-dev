@@ -1,5 +1,11 @@
 name: Data Organizer
 description: Organize unstructured text into a structured JSON format.
+tags:
+  - coding
+  - json
+category: coding
+authors:
+  - anthropic
 model: anthropic/claude-3.7-sonnet
 modelParameters:
   temperature: 0.5

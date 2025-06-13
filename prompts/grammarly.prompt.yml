@@ -1,5 +1,11 @@
 name: Grammarly
 description: Correct spelling, grammar and punctuation.
+tags:
+  - writing
+  - grammar
+category: writing
+authors:
+  - raycast
 model: openai/gpt-4.1
 modelParameters:
   temperature: 0.5

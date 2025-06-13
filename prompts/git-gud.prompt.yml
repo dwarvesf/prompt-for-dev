@@ -1,5 +1,11 @@
 name: Git Gud
 description: Translate the text to Git commands.
+tags:
+  - coding
+  - git
+category: coding
+authors:
+  - raycast
 model: anthropic/claude-3.7-sonnet
 modelParameters:
   temperature: 0.5

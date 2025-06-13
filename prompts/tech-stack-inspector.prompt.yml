@@ -1,5 +1,10 @@
 name: Tech Stack Inspector
 description: Describe the tech stack used based on the HTML document.
+tags:
+  - coding
+category: coding
+authors:
+  - raycast
 model: anthropic/claude-3.7-sonnet
 modelParameters:
   temperature: 0.5
