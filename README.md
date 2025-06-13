@@ -15,18 +15,18 @@
 
 ## Prompts
 
-| Prompt                                                        | Description                                                                                   | Source                                                                   |
-| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [SQL Sorcerer](./prompts/SQL%20Sorcerer.md)                   | Transform everyday language into SQL queries                                                  | [Anthropic](https://docs.anthropic.com/en/prompt-library/sql-sorcerer)   |
-| [Data Organizer](./prompts/Data%20Organizer.md)               | Turn unstructured text into bespoke JSON tables                                               | [Anthropic](https://docs.anthropic.com/en/prompt-library/data-organizer) |
-| [PII Purifier](./prompts/PII%20Purifier.md)                   | Automatically detect and remove personally identifiable information (PII) from text documents | [Anthropic](https://docs.anthropic.com/en/prompt-library/pii-purifier)   |
-| [Code Explainer](./prompts/Code%20Explainer.md)               | Explain Code Step by Step                                                                     | [Raycast](https://ray.so/prompts/raycast)                                |
-| [Bug Fighter](./prompts/Bug%20Fighter.md)                     | Find Bug in the Code                                                                          | [Raycast](https://ray.so/prompts/raycast)                                |
-| [Grammarly](./prompts/Grammarly.md)                           | Fix Spelling and Grammar                                                                      | [Raycast](https://ray.so/prompts/raycast)                                |
-| [Git Gud](./prompts/Git%20Gud.md)                             | Translate the text to Git commands                                                            | [Raycast](https://ray.so/prompts/raycast)                                |
-| [Regex Generator](./prompts/Regex%20Generator.md)             | Generate a regular expression that match the specific patterns in the text                    | [Raycast](https://ray.so/prompts/raycast)                                |
-| [Debug Marker](./prompts/Debug%20Marker.md)                   | Add debug statements to the code. Add as many as necessary to make debugging easier           | [Raycast](https://ray.so/prompts/raycast)                                |
-| [Tech Stack Inspector](./prompts/Tech%20Stack%20Inspector.md) | Describe the tech stack used based on a given HTML document                                   | [Raycast](https://ray.so/prompts/raycast)                                |
+| Prompt                                                     | Description                                                                                   | Source                                                                   |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [SQL Sorcerer](./prompts/sql-sorcerer.yml)                 | Transform everyday language into SQL queries                                                  | [Anthropic](https://docs.anthropic.com/en/prompt-library/sql-sorcerer)   |
+| [Data Organizer](./prompts/data-organizer.yml)             | Turn unstructured text into bespoke JSON tables                                               | [Anthropic](https://docs.anthropic.com/en/prompt-library/data-organizer) |
+| [PII Purifier](./prompts/pii-purifier.yml)                 | Automatically detect and remove personally identifiable information (PII) from text documents | [Anthropic](https://docs.anthropic.com/en/prompt-library/pii-purifier)   |
+| [Code Explainer](./prompts/code-explainer.yml)             | Explain Code Step by Step                                                                     | [Raycast](https://ray.so/prompts/raycast)                                |
+| [Bug Fighter](./prompts/bug-fighter.yml)                   | Find Bug in the Code                                                                          | [Raycast](https://ray.so/prompts/raycast)                                |
+| [Grammarly](./prompts/grammarly.yml)                       | Fix Spelling and Grammar                                                                      | [Raycast](https://ray.so/prompts/raycast)                                |
+| [Git Gud](./prompts/git-gud.yml)                           | Translate the text to Git commands                                                            | [Raycast](https://ray.so/prompts/raycast)                                |
+| [Regex Generator](./prompts/regex-generator.yml)           | Generate a regular expression that match the specific patterns in the text                    | [Raycast](https://ray.so/prompts/raycast)                                |
+| [Debug Marker](./prompts/debug-marker.yml)                 | Add debug statements to the code. Add as many as necessary to make debugging easier           | [Raycast](https://ray.so/prompts/raycast)                                |
+| [Tech Stack Inspector](./prompts/tech-stack-inspector.yml) | Describe the tech stack used based on a given HTML document                                   | [Raycast](https://ray.so/prompts/raycast)                                |
 
 ## Credits
 

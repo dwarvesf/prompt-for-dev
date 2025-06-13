@@ -1,0 +1,14 @@
+name: Debug Marker
+description: Add debug statements to the code.
+model: anthropic/claude-3.7-sonnet
+modelParameters:
+  temperature: 0.5
+messages:
+  - role: system
+    content: |
+      Act as a software engineer debugging its code. Add debug statements to the code. Add as many as necessary to make debugging easier.
+  - role: user
+    content: |
+      Code: {{input}}
+
+      Debugged code:

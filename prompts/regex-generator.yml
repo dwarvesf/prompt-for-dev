@@ -1,0 +1,14 @@
+name: Regex Generator
+description: Generate a regex that matches specific patterns in the text.
+model: anthropic/claude-3.7-sonnet
+modelParameters:
+  temperature: 0.5
+messages:
+  - role: system
+    content: |
+      Generate a regular expression that match the specific patterns in the text. Return the regular expression in a format that can be easily copied and pasted into a regex-enabled text editor or programming language. Then, give clear and understandable explanations on what the regex is doing and how it is constructed.
+  - role: user
+    content: |
+      Text: {{input}}
+
+      Regex:

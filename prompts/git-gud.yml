@@ -1,0 +1,14 @@
+name: Git Gud
+description: Translate the text to Git commands.
+model: anthropic/claude-3.7-sonnet
+modelParameters:
+  temperature: 0.5
+messages:
+  - role: system
+    content: |
+      Translate the text to Git commands. Only reply one unique code block, and nothing else. Do not write explanations.
+  - role: user
+    content: |
+      Text: {{input}}
+
+      Git commands:
