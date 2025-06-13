@@ -34,7 +34,7 @@ If you are adding a new prompt to this repository, please follow these steps in 
 - [ ] The prompt has been tested and works as expected.
 - [ ] The prompt file has been added to the `/prompts` folder:
   - [ ] Add frontmatter with `title`, `description`, `tags`, `category`, `authors`, and `models`.
-  - [ ] Prompt content encapsulated in a code block.
+  - [ ] Prompt content must follow the [Github prompting convention](https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories).
 - [ ] The `README.md` has been updated:
   - [ ] Prompt title linked to the new prompt file.
   - [ ] Short description added.
